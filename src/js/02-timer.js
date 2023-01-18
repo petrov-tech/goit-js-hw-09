@@ -76,11 +76,3 @@ startBtn.addEventListener('click', () => {
     }
   }, 1000);
 });
-
-// for (let i = 3; i > 0; i--) {
-//   const delay = i * 1000;
-//   console.log("🚀 -> i", i);
-
-//   setTimeout(() => console.log(i), delay);
-
-// }

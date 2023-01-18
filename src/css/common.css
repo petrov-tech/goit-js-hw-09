@@ -42,8 +42,10 @@ button{
 
 .value{
   font-size: xxx-large;
+font-weight:bold;
 }
 .label{
+  font-size: large;
   font-weight: bold;
     text-transform: uppercase;
 }
